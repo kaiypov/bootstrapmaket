@@ -1,0 +1,27 @@
+ul {
+    list-style-type: none;
+    width: 500px;
+}
+.btn-danger {
+    height: 48px;
+    border-radius: 0; 
+}
+.main-image {
+    background: url(./images/3792\ 1mainimg\ \(1\).png);
+    height: 650px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.about-us h1 {
+    font-size: 50px;
+}
+.about-us h4 {
+    font-weight: bold;
+}
+.services {
+    background-color: #F6F8F8;
+}
+.staff__avatar {
+    width: 150px;
+}
